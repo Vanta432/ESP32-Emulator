@@ -1,0 +1,10 @@
+[package]
+name = "esp32-emulator"
+version = "0.1.0"
+edition = "2021"
+description = "A visual ESP32 emulator with a small Xtensa LX6 teaching core"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+eframe = "0.29"
